@@ -3,17 +3,7 @@
         "name" : "ItemName1",
         "level" : 1 ,
         "completed" : true
-    },
-    {
-        "name" : "ItemName2",
-        "level" : 2 ,
-        "completed" : false
-    },
-    {
-        "name" : "ItemName3",
-        "level" : 3 ,
-        "completed" : false
-    },
+    }
 ]
 
 
